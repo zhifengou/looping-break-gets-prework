@@ -7,5 +7,5 @@ def levitation_quizputs
 	end
 	puts "You passed the quiz!"
 end
-
+levitation_quizputs
 
